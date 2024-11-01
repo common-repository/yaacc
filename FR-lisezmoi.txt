@@ -1,0 +1,37 @@
+﻿YAACC: Yet Another Ajax Currency Converter (Encore un autre widget de conversion de devises en Ajax)
+Widget for WordPress
+Auteur: Kenji Baheux
+Site web : http://www.commecadujapon.com/articles/20070805-convertisseur-de-devises-widget-wordpress.html
+License : GPL
+
+
+*** Installation ***
+
+1. Copiez le répertoire 'yaacc' dans le répertoire de plugins* de votre blog WordPress avec un logiciel FTP. Vérifiez qu'il y a bien un répertoire conversions sous yaacc.
+2. Loggez vous dans l'interface d'administration de votre blog WordPress.
+3. Allez dans la section plugins.
+4. Activez le plugin YAACC.
+5. Allez dans la section présentation.
+6. Cliquez sur l'onglet pour les widgets / gadgets.
+7. Faites glisser le widget YAACC à l'endroit souhaité.
+
+*: en principe : /wp-content/plugins/ ou /blog/wp-content/plugins/
+
+Lors d'un upgrade, vous devez aussi supprimer les fichiers dans le répertoire conversions sur votre serveur.
+
+*** Options ***
+1. Allez dans la section widgets de votre blog WordPress.
+2. Cliquez sur l'icone des paramètres de YAACC
+
+Vous pouvez changer les devises de départ et d'arrivée ainsi que le montant par défaut.
+Si vous souhaitez modifier la liste des devices disponibles, il vous faudra éditer le fichier currencies.php dans le répertoire settings. Il suffit de commenter ou de supprimer les commentaires pour retirer et ajouter de nouvelles devises (voir les explications dans le fichier currencies.php).
+
+
+*** Autres langues ***
+
+Le widget est disponible en anglais, en japonais et en français via le système de localisation (fichiers *.po, *.mo). N'hésitez pas à proposer de nouvelles traductions.
+
+
+Vos questions, et suggestions sont les bienvenues à : 
+http://www.commecadujapon.com/articles/20070805-convertisseur-de-devises-widget-wordpress.html
+

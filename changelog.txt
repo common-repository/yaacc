@@ -1,0 +1,14 @@
+20080829
+1.1.1: added a dummy file in the conversion sub-directory to force its inclusion into the archive file on wordpress.org
+20080804
+1.1: fixed img path, removed unnecessary cache files
+20080612
+1.0: advanced caching, code cleaning, separation of currencies settings, cleaner directory structure, localisation with standard api
+20080518
+0.9.4: fixed the install base problem
+20080226
+0.9.3: fixed the title option problem and added a version check
+20070922
+0.9.2: fixed a glitch in the caching of ajax-working.gif
+20070909
+0.9.1: replaced ajax-working.gif with a transparent version

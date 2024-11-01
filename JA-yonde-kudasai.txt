@@ -1,0 +1,36 @@
+﻿YAACC: Yet Another Ajax Currency Converter (またAjax風の換金Widget)
+WordPress用のWidget
+作者: Kenji Baheux
+HP: http://www.commecadujapon.com/kiji/20070805-convertisseur-de-devises-widget-wordpress.html
+License : GPL
+
+
+*** インストールの手順 ***
+
+１．'YAACC'をFTPでWordPressのPlugins*フォルダーにコピーして（yaaccの下にconversionというフォルダーがあるのを確認してくだださい）
+２．アドミンパネルにログインして
+３．Pluginsのセクションに移動して
+４．yaaccを有効化にして
+５．表示のセクション、そしてWidgetのセクションに移動して
+６．YAACCを好きなところにドラッグ＆ドロップして
+
+*: 一般的にpluginsのフォルダーは：/wp-content/plugins/ または /blog/wp-content/plugins/
+
+アップグレードの場合は、サーバーのconversionsフォルダーの下にあるファイルを削除して下さい。
+
+
+*** 設定 ***
+1. Widgetのセクションに移動して
+2. YAACCの設定アイコンをクリックして
+
+設定は二つの硬貨や初期金額となります。
+
+硬貨のリストを編集したい場合はsettingsの下にあるcurrencies.phpのファイルを編集してください。(currencies.phpの説明を参考).
+
+*** 別の言語 ***
+日本語の他にフランス語、英語のバージョンがあります（*.po,*.moファイル使用）。別の言語のバージョンを提供して頂ければ大変ありがたいです。
+
+
+質問やリクエストは大歓迎： 
+http://www.commecadujapon.com/kiji/20070805-convertisseur-de-devises-widget-wordpress.html
+
